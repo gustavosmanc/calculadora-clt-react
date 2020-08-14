@@ -1,0 +1,35 @@
+.base {
+  color: #000 !important;
+  font-weight: bold;
+}
+
+.discountINSS {
+  color: #e67e22 !important;
+  font-weight: bold;
+}
+
+.discountIRPF {
+  color: #c0392b !important;
+  font-weight: bold;
+}
+
+.netSalary {
+  color: #16a085 !important;
+  font-weight: bold;
+}
+
+.container {
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.inputContainer {
+  width: 100%;
+}
+
+.bar {
+  display: flex;
+}
